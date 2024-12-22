@@ -1,3 +1,4 @@
+'use client';
 import { authenticate } from '@/lib/actions/user.actions';
 import { useActionState } from 'react';
 import { lusitana } from './fonts';
